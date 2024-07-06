@@ -1,0 +1,4 @@
+db:
+  connection:
+     uname: oraclesql
+     pword: System123     
